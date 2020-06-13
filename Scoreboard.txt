@@ -1,0 +1,19 @@
+40000	ZERORO
+40000	Boss
+50000	Hanzo
+25000	KikiDoYouLoveMe
+33333	BAD
+25000	SUMBAX
+40000	CROSS
+40000	Name
+50000	BigBadWolf
+36363	KING
+40000	Name
+33333	Jakiro
+83	KuroHime
+83	KuroHime
+172	KuroHime
+11764	Valid
+2739	Liro
+16666	LubaLubaDubDub
+
